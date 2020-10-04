@@ -13,6 +13,7 @@
     "@vue/compiler-sfc": "^3.0.0-rc.1",
     "eslint": "^7.10.0",
     "eslint-config-prettier": "^6.12.0",
+    "eslint-plugin-prettier": "^3.1.4",
     "eslint-plugin-vue": "^7.0.0-beta.4",
     "prettier": "2.1.2",
     "vite": "^1.0.0-rc.1"
